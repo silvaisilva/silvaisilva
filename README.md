@@ -2,7 +2,6 @@
 
 - 🔭 Hoje Trabalho como tecnico de Informática
 - 🌱 Estudando Cibersegurança
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com./silvaisilva">
